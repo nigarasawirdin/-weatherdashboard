@@ -45,7 +45,7 @@ You are required to submit the following for review:
 ## Creators
 Project created by: Nigara Sawirdin
 
-Github: 
+Github: https://github.com/nigarasawirdin/weatherdashboard.git
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
